@@ -1,0 +1,22 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "Vue.js project",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav Tm",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-browserify": "^0.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "browserify": "^16.5.0",
+    "envify": "^4.1.0",
+    "vinyl-source-stream": "^2.0.0",
+    "vue": "^2.6.11"
+  }
+}
